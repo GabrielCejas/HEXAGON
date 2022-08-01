@@ -1,3 +1,5 @@
 #HEXAGON
-##Proyecto de un eCommerce:
+
+Proyecto de un eCommerce:
+
 https://hexagon-techstore.herokuapp.com/
